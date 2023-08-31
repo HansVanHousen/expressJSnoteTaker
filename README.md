@@ -6,3 +6,4 @@ This assignment was to modify starter code to create an application called Note 
 https://expressjsnotetakerhvh-0e655e674043.herokuapp.com/
 
 https://github.com/HansVanHousen/expressJSnoteTaker
+https://hansvanhousen.github.io/expressJSnoteTaker/
